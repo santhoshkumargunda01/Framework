@@ -1,0 +1,7 @@
+com\automation\scripts\SearchFlight.class
+com\automation\page\HomePage.class
+com\automation\scripts\Login.class
+com\automation\scripts\Register.class
+com\automation\businesslogic\CommonBusinessLibrary.class
+com\automation\page\FlightFinderPage.class
+com\automation\page\RegisterPage.class
